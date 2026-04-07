@@ -1,8 +1,9 @@
 {
   "lang": "disassembly",
-  "semver": false,
-  "min_version": null,
-  "max_version": null,
   "location": null,
-  "url": "https://github.com/ColinKennedy/tree-sitter-disassembly"
+  "parser_version": "0229c0211dba909c5d45129ac784a3f4d49c243a",
+  "generate": null,
+  "generate_from_json": null,
+  "url": "https://github.com/ColinKennedy/tree-sitter-disassembly",
+  "semver": false
 }
